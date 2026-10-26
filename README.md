@@ -1,12 +1,13 @@
-👋 Hi, I’m Ceejaybill
+# Ceejay Nwachukwu
 
-👀 I’m a full-stack web developer, graphic designer, and web3 guru.
-🌱 I’m currently learning cybersecurity and i have already enhanced my skills in HTML, CSS, Bootstrap 5, php, sql and JavaScript.
-💞️ I’m looking to collaborate on projects related to web development and creating educational resources.
-📫 How to reach me: [Chijiokenwachukwu@gmail.com or wa.me/+2349041657689]
-😄 Pronouns: [He/Him]
+**Full-Stack & Web3 Developer** focusing on application security and network infrastructure.
 
-<!---
-Ceejaybill/Ceejaybill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Stack:** *JavaScript, TypeScript, PHP, SQL, node.js, CSS3/Bootstrap.*
+
+
+**Focus:** *Cybersecurity, Web3 architecture, Graphic Design, Technical Analysis*
+
+     
+**Open To:** *Web development collaborations & building technical educational resources.*
+
+**Contact:** ceejay.nwachukwu1@gmail.com
